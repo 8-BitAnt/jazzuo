@@ -1,197 +1,317 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
 <channel>
-  <title>ROR Sitemap for http://jazzuo.fun/</title>
-  <link>http://jazzuo.fun/</link>
+  <title>ROR Sitemap for https://jazzuo.net/</title>
+  <link>https://jazzuo.net/</link>
 
 <item>
-     <link>https://jazzuo.fun/</link>
-     <title>The Jazzuo Fanclub!</title>
-     <description>The Jazzuo Fanclub!</description>
+     <link>https://jazzuo.net/</link>
+     <title>Jazzuo.net!</title>
+     <description>Jazzuo.net!</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>0</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://jazzuo.fun/games/sexyhiking/</link>
-     <title>The Jazzuo Fanclub! - Sexy Hiking</title>
-     <description>The Jazzuo Fanclub! - Sexy Hiking</description>
+     <link>https://jazzuo.net/games/sexyhiking/</link>
+     <title>Jazzuo.net! - Sexy Hiking</title>
+     <description>Jazzuo.net! - Sexy Hiking</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>1</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://jazzuo.fun/catagories/games/</link>
-     <title>The Jazzuo Fanclub! - Games</title>
-     <description>The Jazzuo Fanclub! - Games</description>
+     <link>https://jazzuo.net/cz/</link>
+     <title>Jazzuo.net!</title>
+     <description>Jazzuo.net!</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>1</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://jazzuo.fun/catagories/discord/</link>
-     <title>The Jazzuo Fanclub! - Discord</title>
-     <description>The Jazzuo Fanclub! - Discord</description>
+     <link>https://jazzuo.net/catagories/games/</link>
+     <title>Jazzuo.net! - Games</title>
+     <description>Jazzuo.net! - Games</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>1</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://jazzuo.fun/catagories/fangames/</link>
-     <title>The Jazzuo Fanclub! - Fan Games</title>
-     <description>The Jazzuo Fanclub! - Fan Games</description>
+     <link>https://jazzuo.net/404</link>
+     <title>Jazzuo.net! - Page not found.</title>
+     <description>Jazzuo.net! - Page not found.</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>1</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://jazzuo.fun/catagories/about/</link>
-     <title>The Jazzuo Fanclub! - About</title>
-     <description>The Jazzuo Fanclub! - About</description>
+     <link>https://jazzuo.net/catagories/discord/</link>
+     <title>Jazzuo.net! - Discord</title>
+     <description>Jazzuo.net! - Discord</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>1</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://jazzuo.fun/catagories/news/</link>
-     <title>The Jazzuo Fanclub! - News</title>
-     <description>The Jazzuo Fanclub! - News</description>
+     <link>https://jazzuo.net/catagories/fangames/</link>
+     <title>Jazzuo.net! - Fan Games</title>
+     <description>Jazzuo.net! - Fan Games</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>1</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://jazzuo.fun/catagories/contact/</link>
-     <title>The Jazzuo Fanclub! - Contact Us</title>
-     <description>The Jazzuo Fanclub! - Contact Us</description>
+     <link>https://jazzuo.net/catagories/about/</link>
+     <title>Jazzuo.net! - About</title>
+     <description>Jazzuo.net! - About</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>1</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://jazzuo.fun/catagories/links/</link>
-     <title>The Jazzuo Fanclub! - Links</title>
-     <description>The Jazzuo Fanclub! - Links</description>
+     <link>https://jazzuo.net/catagories/news/</link>
+     <title>Jazzuo.net! - News</title>
+     <description>Jazzuo.net! - News</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>1</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://jazzuo.fun/genres/platformers/</link>
-     <title>The Jazzuo Fanclub! - Platformers</title>
-     <description>The Jazzuo Fanclub! - Platformers</description>
+     <link>https://jazzuo.net/catagories/contact/</link>
+     <title>Jazzuo.net! - Contact Us</title>
+     <description>Jazzuo.net! - Contact Us</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://jazzuo.net/catagories/links/</link>
+     <title>Jazzuo.net! - Links</title>
+     <description>Jazzuo.net! - Links</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://jazzuo.net/catagories/games/genres/sexyseries/</link>
+     <title>Jazzuo.net! - Sexy Series</title>
+     <description>Jazzuo.net! - Sexy Series</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://jazzuo.fun/genres/cars/</link>
-     <title>The Jazzuo Fanclub! - Car Games</title>
-     <description>The Jazzuo Fanclub! - Car Games</description>
+     <link>https://jazzuo.net/cz/games/sexyhiking/</link>
+     <title>Jazzuo.fun - Sexy Hiking</title>
+     <description>Jazzuo.fun - Sexy Hiking</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://jazzuo.fun/fangames/moneyman/</link>
-     <title>The Jazzuo Fanclub! - Money Man</title>
-     <description>The Jazzuo Fanclub! - Money Man</description>
+     <link>https://jazzuo.net/cz/catagories/games/</link>
+     <title>Jazzuo.fun - Games</title>
+     <description>Jazzuo.fun - Games</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://jazzuo.fun/fangames/ponyfall/</link>
-     <title>The Jazzuo Fanclub! - CTF Pony Fall</title>
-     <description>The Jazzuo Fanclub! - CTF Pony Fall</description>
+     <link>https://jazzuo.net/cz/catagories/discord/</link>
+     <title>Jazzuo.fun - Discord</title>
+     <description>Jazzuo.fun - Discord</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://jazzuo.fun/fangames/overit/</link>
-     <title>The Jazzuo Fanclub! - Getting Over It</title>
-     <description>The Jazzuo Fanclub! - Getting Over It</description>
+     <link>https://jazzuo.net/cz/catagories/fangames/</link>
+     <title>Jazzuo.fun - Fan Games</title>
+     <description>Jazzuo.fun - Fan Games</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://jazzuo.fun/sitemap/</link>
-     <title>The Jazzuo Fanclub - Sitemap</title>
-     <description>The Jazzuo Fanclub - Sitemap</description>
+     <link>https://jazzuo.net/cz/catagories/about/</link>
+     <title>Jazzuo.fun - O stránce</title>
+     <description>Jazzuo.fun - O stránce</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://jazzuo.fun/games/GMGolf/</link>
-     <title>The Jazzuo Fanclub! - GM Golf Challenge</title>
-     <description>The Jazzuo Fanclub! - GM Golf Challenge</description>
+     <link>https://jazzuo.net/cz/catagories/news/</link>
+     <title>Jazzuo.fun - Novinky</title>
+     <description>Jazzuo.fun - Novinky</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://jazzuo.net/cz/catagories/contact/</link>
+     <title>Jazzuo.fun - Kontakt</title>
+     <description>Jazzuo.fun - Kontakt</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://jazzuo.net/cz/catagories/links/</link>
+     <title>Jazzuo.fun - Links</title>
+     <description>Jazzuo.fun - Links</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://jazzuo.net/catagories/games/genres/platformers/</link>
+     <title>Jazzuo.net! - Platformers</title>
+     <description>Jazzuo.net! - Platformers</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://jazzuo.net/catagories/games/genres/cars/</link>
+     <title>Jazzuo.net! - Car Games</title>
+     <description>Jazzuo.net! - Car Games</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://jazzuo.net/catagories/games/genres/gbt/</link>
+     <title>Jazzuo.net! - The Gunboy Trilogy</title>
+     <description>Jazzuo.net! - The Gunboy Trilogy</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://jazzuo.net/fangames/moneyman/</link>
+     <title>Jazzuo.fun! - Money Man</title>
+     <description>Jazzuo.fun! - Money Man</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://jazzuo.net/fangames/ponyfall/</link>
+     <title>Jazzuo.fun! - CTF Pony Fall</title>
+     <description>Jazzuo.fun! - CTF Pony Fall</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://jazzuo.net/fangames/overit/</link>
+     <title>Jazzuo.fun! - Getting Over It</title>
+     <description>Jazzuo.fun! - Getting Over It</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://jazzuo.net/games/sexyhands1/</link>
+     <title>Jazzuo.net! - Sexy Hand 1</title>
+     <description>Jazzuo.net! - Sexy Hand 1</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>3</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://jazzuo.fun/games/HouseOf/</link>
-     <title>The Jazzuo Fanclub! - House of Stairs</title>
-     <description>The Jazzuo Fanclub! - House of Stairs</description>
+     <link>https://jazzuo.net/games/sexyhands2/</link>
+     <title>Jazzuo.net! - Sexy Hand 2</title>
+     <description>Jazzuo.net! - Sexy Hand 2</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>3</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://jazzuo.fun/games/GMFall/</link>
-     <title>The Jazzuo Fanclub! - GM Double Fall</title>
-     <description>The Jazzuo Fanclub! - GM Double Fall</description>
+     <link>https://jazzuo.net/cz/fangames/overit/</link>
+     <title>Jazzuo.fun - Getting Over It</title>
+     <description>Jazzuo.fun - Getting Over It</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>3</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://jazzuo.fun/games/GMC1/</link>
-     <title>The Jazzuo Fanclub! - GM Challenge 1</title>
-     <description>The Jazzuo Fanclub! - GM Challenge 1</description>
+     <link>https://jazzuo.net/games/GMGolf/</link>
+     <title>Jazzuo.net! - GM Golf Challenge</title>
+     <description>Jazzuo.net! - GM Golf Challenge</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>3</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://jazzuo.fun/games/mandala/</link>
-     <title>The Jazzuo Fanclub! - Mandala Jazzuo</title>
-     <description>The Jazzuo Fanclub! - Mandala Jazzuo</description>
+     <link>https://jazzuo.net/games/HouseOf/</link>
+     <title>Jazzuo.net! - House of Stairs</title>
+     <description>Jazzuo.net! - House of Stairs</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>3</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://jazzuo.fun/games/SIL2/</link>
-     <title>The Jazzuo Fanclub! - Stay n alive II</title>
-     <description>The Jazzuo Fanclub! - Stay n alive II</description>
+     <link>https://jazzuo.net/games/GMFall/</link>
+     <title>Jazzuo.net! - GM Double Fall</title>
+     <description>Jazzuo.net! - GM Double Fall</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>3</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://jazzuo.fun/games/SIL23D/</link>
-     <title>The Jazzuo Fanclub! - Stay n alive II 3D</title>
-     <description>The Jazzuo Fanclub! - Stay n alive II 3D</description>
+     <link>https://jazzuo.net/games/GMC1/</link>
+     <title>Jazzuo.net! - GM Challenge 1</title>
+     <description>Jazzuo.net! - GM Challenge 1</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>3</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://jazzuo.fun/games/SRD/</link>
-     <title>The Jazzuo Fanclub! - Stupidity Race Deluxe</title>
-     <description>The Jazzuo Fanclub! - Stupidity Race Deluxe</description>
+     <link>https://jazzuo.net/games/mandala/</link>
+     <title>Jazzuo.net! - Mandala Jazzuo</title>
+     <description>Jazzuo.net! - Mandala Jazzuo</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>3</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://jazzuo.fun/games/KMG/</link>
-     <title>The Jazzuo Fanclub! - Kamila's Masochistic Game</title>
-     <description>The Jazzuo Fanclub! - Kamila's Masochistic Game</description>
+     <link>https://jazzuo.net/games/SIL2/</link>
+     <title>Jazzuo.net! - Stay n alive II</title>
+     <description>Jazzuo.net! - Stay n alive II</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://jazzuo.net/games/SIL23D/</link>
+     <title>Jazzuo.net! - Stay n alive II 3D</title>
+     <description>Jazzuo.net! - Stay n alive II 3D</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://jazzuo.net/games/SRD/</link>
+     <title>Jazzuo.net! - Stupidity Race Deluxe</title>
+     <description>Jazzuo.net! - Stupidity Race Deluxe</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://jazzuo.net/games/KMG/</link>
+     <title>Jazzuo.net! - Kamila's Masochistic Game</title>
+     <description>Jazzuo.net! - Kamila's Masochistic Game</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://jazzuo.net/games/GB1/</link>
+     <title>Jazzuo.net! - Gunboy 1</title>
+     <description>Jazzuo.net! - Gunboy 1</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>3</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
