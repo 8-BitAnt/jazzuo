@@ -64,7 +64,7 @@ h1{
 }
 
 img{
-  image-rendering: pixelated;
+  image-rendering: -webkit-optimize-contrast;
 }
 
 marquee{
