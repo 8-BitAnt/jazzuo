@@ -298,3 +298,14 @@ a{
 .red{
   color: red;
 }
+
+#kofiframe{
+  border-radius: 15px;
+  border: white 3px solid;
+}
+
+.kofi{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
