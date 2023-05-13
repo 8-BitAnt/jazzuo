@@ -37,6 +37,14 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
+     <link>https://jazzuo.net/catagories/sexyhiking-mods/</link>
+     <title>Jazzuo.net! - Sexy Hiking + Mods</title>
+     <description>Jazzuo.net! - Sexy Hiking + Mods</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
      <link>https://jazzuo.net/404</link>
      <title>Jazzuo.net! - Page not found.</title>
      <description>Jazzuo.net! - Page not found.</description>
@@ -85,9 +93,25 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
+     <link>https://jazzuo.net/catagories/donate/</link>
+     <title>Jazzuo.net! - Discord</title>
+     <description>Jazzuo.net! - Discord</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
      <link>https://jazzuo.net/catagories/links/</link>
      <title>Jazzuo.net! - Links</title>
      <description>Jazzuo.net! - Links</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://jazzuo.net/catagories/tools/</link>
+     <title>Jazzuo.net! - Tools</title>
+     <description>Jazzuo.net! - Tools</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>1</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
@@ -312,6 +336,22 @@
      <link>https://jazzuo.net/games/GB1/</link>
      <title>Jazzuo.net! - Gunboy 1</title>
      <description>Jazzuo.net! - Gunboy 1</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://jazzuo.net/games/GB2/</link>
+     <title>Jazzuo.net! - Gunboy 2</title>
+     <description>Jazzuo.net! - Gunboy 2</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://jazzuo.net/games/GB3/</link>
+     <title>Jazzuo.net! - Gunboy 3</title>
+     <description>Jazzuo.net! - Gunboy 3</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>3</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>

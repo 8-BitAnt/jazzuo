@@ -2,13 +2,16 @@ https://jazzuo.net/
 https://jazzuo.net/games/sexyhiking/
 https://jazzuo.net/cz/
 https://jazzuo.net/catagories/games/
+https://jazzuo.net/catagories/sexyhiking-mods/
 https://jazzuo.net/404
 https://jazzuo.net/catagories/discord/
 https://jazzuo.net/catagories/fangames/
 https://jazzuo.net/catagories/about/
 https://jazzuo.net/catagories/news/
 https://jazzuo.net/catagories/contact/
+https://jazzuo.net/catagories/donate/
 https://jazzuo.net/catagories/links/
+https://jazzuo.net/catagories/tools/
 https://jazzuo.net/catagories/games/genres/sexyseries/
 https://jazzuo.net/cz/games/sexyhiking/
 https://jazzuo.net/cz/catagories/games/
@@ -37,3 +40,5 @@ https://jazzuo.net/games/SIL23D/
 https://jazzuo.net/games/SRD/
 https://jazzuo.net/games/KMG/
 https://jazzuo.net/games/GB1/
+https://jazzuo.net/games/GB2/
+https://jazzuo.net/games/GB3/
