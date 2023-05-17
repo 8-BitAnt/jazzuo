@@ -13,14 +13,6 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://jazzuo.net/games/sexyhiking/</link>
-     <title>Jazzuo.net! - Sexy Hiking</title>
-     <description>Jazzuo.net! - Sexy Hiking</description>
-     <ror:updatePeriod></ror:updatePeriod>
-     <ror:sortOrder>1</ror:sortOrder>
-     <ror:resourceOf>sitemap</ror:resourceOf>
-</item>
-<item>
      <link>https://jazzuo.net/cz/</link>
      <title>Jazzuo.net!</title>
      <description>Jazzuo.net!</description>
@@ -37,7 +29,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://jazzuo.net/catagories/sexyhiking-mods/</link>
+     <link>https://jazzuo.net/catagories/sexyhiking-and-mods/</link>
      <title>Jazzuo.net! - Sexy Hiking + Mods</title>
      <description>Jazzuo.net! - Sexy Hiking + Mods</description>
      <ror:updatePeriod></ror:updatePeriod>
@@ -114,14 +106,6 @@
      <description>Jazzuo.net! - Tools</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>1</ror:sortOrder>
-     <ror:resourceOf>sitemap</ror:resourceOf>
-</item>
-<item>
-     <link>https://jazzuo.net/catagories/games/genres/sexyseries/</link>
-     <title>Jazzuo.net! - Sexy Series</title>
-     <description>Jazzuo.net! - Sexy Series</description>
-     <ror:updatePeriod></ror:updatePeriod>
-     <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
@@ -205,7 +189,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://jazzuo.net/catagories/games/genres/gbt/</link>
+     <link>https://jazzuo.net/catagories/games/genres/gunboy-trilogy/</link>
      <title>Jazzuo.net! - The Gunboy Trilogy</title>
      <description>Jazzuo.net! - The Gunboy Trilogy</description>
      <ror:updatePeriod></ror:updatePeriod>
@@ -213,9 +197,25 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://jazzuo.net/catagories/games/genres/lvt/</link>
+     <link>https://jazzuo.net/catagories/games/genres/sexy-series/</link>
+     <title>Jazzuo.net! - Sexy Series</title>
+     <description>Jazzuo.net! - Sexy Series</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://jazzuo.net/catagories/games/genres/lonely-vietnam-trilogy/</link>
      <title>Jazzuo.net! - Lonely Vietnam Trilogy</title>
      <description>Jazzuo.net! - Lonely Vietnam Trilogy</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://jazzuo.net/catagories/games/genres/flashes/</link>
+     <title>Jazzuo.net! - Flashes</title>
+     <description>Jazzuo.net! - Flashes</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
@@ -253,22 +253,6 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://jazzuo.net/games/sexyhands1/</link>
-     <title>Jazzuo.net! - Sexy Hand 1</title>
-     <description>Jazzuo.net! - Sexy Hand 1</description>
-     <ror:updatePeriod></ror:updatePeriod>
-     <ror:sortOrder>3</ror:sortOrder>
-     <ror:resourceOf>sitemap</ror:resourceOf>
-</item>
-<item>
-     <link>https://jazzuo.net/games/sexyhands2/</link>
-     <title>Jazzuo.net! - Sexy Hand 2</title>
-     <description>Jazzuo.net! - Sexy Hand 2</description>
-     <ror:updatePeriod></ror:updatePeriod>
-     <ror:sortOrder>3</ror:sortOrder>
-     <ror:resourceOf>sitemap</ror:resourceOf>
-</item>
-<item>
      <link>https://jazzuo.net/cz/fangames/overit/</link>
      <title>Jazzuo.fun - Getting Over It</title>
      <description>Jazzuo.fun - Getting Over It</description>
@@ -277,7 +261,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://jazzuo.net/games/GMGolf/</link>
+     <link>https://jazzuo.net/games/gm-golf-challenge/</link>
      <title>Jazzuo.net! - GM Golf Challenge</title>
      <description>Jazzuo.net! - GM Golf Challenge</description>
      <ror:updatePeriod></ror:updatePeriod>
@@ -285,7 +269,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://jazzuo.net/games/HouseOf/</link>
+     <link>https://jazzuo.net/games/house-of-stairs/</link>
      <title>Jazzuo.net! - House of Stairs</title>
      <description>Jazzuo.net! - House of Stairs</description>
      <ror:updatePeriod></ror:updatePeriod>
@@ -293,7 +277,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://jazzuo.net/games/GMFall/</link>
+     <link>https://jazzuo.net/games/gm-double-fall/</link>
      <title>Jazzuo.net! - GM Double Fall</title>
      <description>Jazzuo.net! - GM Double Fall</description>
      <ror:updatePeriod></ror:updatePeriod>
@@ -301,15 +285,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://jazzuo.net/games/GMC1/</link>
-     <title>Jazzuo.net! - GM Challenge 1</title>
-     <description>Jazzuo.net! - GM Challenge 1</description>
-     <ror:updatePeriod></ror:updatePeriod>
-     <ror:sortOrder>3</ror:sortOrder>
-     <ror:resourceOf>sitemap</ror:resourceOf>
-</item>
-<item>
-     <link>https://jazzuo.net/games/mandala/</link>
+     <link>https://jazzuo.net/games/mandala-jazzuo/</link>
      <title>Jazzuo.net! - Mandala Jazzuo</title>
      <description>Jazzuo.net! - Mandala Jazzuo</description>
      <ror:updatePeriod></ror:updatePeriod>
@@ -317,7 +293,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://jazzuo.net/games/SIL2/</link>
+     <link>https://jazzuo.net/games/stay-n-alive-ii/</link>
      <title>Jazzuo.net! - Stay n alive II</title>
      <description>Jazzuo.net! - Stay n alive II</description>
      <ror:updatePeriod></ror:updatePeriod>
@@ -325,7 +301,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://jazzuo.net/games/SIL23D/</link>
+     <link>https://jazzuo.net/games/stay-n-alive-ii-3d/</link>
      <title>Jazzuo.net! - Stay n alive II 3D</title>
      <description>Jazzuo.net! - Stay n alive II 3D</description>
      <ror:updatePeriod></ror:updatePeriod>
@@ -333,7 +309,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://jazzuo.net/games/SRD/</link>
+     <link>https://jazzuo.net/games/stupidy-race-deluxe/</link>
      <title>Jazzuo.net! - Stupidity Race Deluxe</title>
      <description>Jazzuo.net! - Stupidity Race Deluxe</description>
      <ror:updatePeriod></ror:updatePeriod>
@@ -341,7 +317,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://jazzuo.net/games/KMG/</link>
+     <link>https://jazzuo.net/games/kamilas-masochist-game/</link>
      <title>Jazzuo.net! - Kamila's Masochistic Game</title>
      <description>Jazzuo.net! - Kamila's Masochistic Game</description>
      <ror:updatePeriod></ror:updatePeriod>
@@ -349,7 +325,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://jazzuo.net/games/KMMTS/</link>
+     <link>https://jazzuo.net/games/kamilas-masochist-meets-the-sadist/</link>
      <title>Jazzuo.net! - Kamila's Maso Meets the Sadist</title>
      <description>Jazzuo.net! - Kamila's Maso Meets the Sadist</description>
      <ror:updatePeriod></ror:updatePeriod>
@@ -357,7 +333,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://jazzuo.net/games/KSMTP/</link>
+     <link>https://jazzuo.net/games/kamilas-sadist-meets-the-pacifists/</link>
      <title>Jazzuo.net! - Kamila's Sadist Meets the Pacifists</title>
      <description>Jazzuo.net! - Kamila's Sadist Meets the Pacifists</description>
      <ror:updatePeriod></ror:updatePeriod>
@@ -365,7 +341,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://jazzuo.net/games/GB1/</link>
+     <link>https://jazzuo.net/games/gunboy-1/</link>
      <title>Jazzuo.net! - Gunboy 1</title>
      <description>Jazzuo.net! - Gunboy 1</description>
      <ror:updatePeriod></ror:updatePeriod>
@@ -373,7 +349,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://jazzuo.net/games/GB2/</link>
+     <link>https://jazzuo.net/games/gunboy-2/</link>
      <title>Jazzuo.net! - Gunboy 2</title>
      <description>Jazzuo.net! - Gunboy 2</description>
      <ror:updatePeriod></ror:updatePeriod>
@@ -381,7 +357,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://jazzuo.net/games/GB3/</link>
+     <link>https://jazzuo.net/games/gunboy-3/</link>
      <title>Jazzuo.net! - Gunboy 3</title>
      <description>Jazzuo.net! - Gunboy 3</description>
      <ror:updatePeriod></ror:updatePeriod>
@@ -389,7 +365,31 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://jazzuo.net/games/LV/</link>
+     <link>https://jazzuo.net/games/sexy-hand/</link>
+     <title>Jazzuo.net! - Sexy Hand 1</title>
+     <description>Jazzuo.net! - Sexy Hand 1</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://jazzuo.net/games/sexy-hand-2/</link>
+     <title>Jazzuo.net! - Sexy Hand 2</title>
+     <description>Jazzuo.net! - Sexy Hand 2</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://jazzuo.net/games/sexy-hiking/</link>
+     <title>Jazzuo.net! - Sexy Hiking</title>
+     <description>Jazzuo.net! - Sexy Hiking</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://jazzuo.net/games/lonely-vietnam/</link>
      <title>Jazzuo.net! - Lonely Vietnam</title>
      <description>Jazzuo.net! - Lonely Vietnam</description>
      <ror:updatePeriod></ror:updatePeriod>
@@ -397,15 +397,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://jazzuo.net/games/LV2/</link>
-     <title>Jazzuo.net! - Lonely Vietnam</title>
-     <description>Jazzuo.net! - Lonely Vietnam</description>
-     <ror:updatePeriod></ror:updatePeriod>
-     <ror:sortOrder>3</ror:sortOrder>
-     <ror:resourceOf>sitemap</ror:resourceOf>
-</item>
-<item>
-     <link>https://jazzuo.net/games/TLV/</link>
+     <link>https://jazzuo.net/games/trailer-for-lonely-vietnam/</link>
      <title>Jazzuo.net! - Trailer for Lonely Vietnam</title>
      <description>Jazzuo.net! - Trailer for Lonely Vietnam</description>
      <ror:updatePeriod></ror:updatePeriod>
@@ -413,7 +405,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://jazzuo.net/games/LV3/</link>
+     <link>https://jazzuo.net/games/lonely-vietnam-sweet-revenge/</link>
      <title>Jazzuo.net! - Lonely Vietnam - Sweet Revenge</title>
      <description>Jazzuo.net! - Lonely Vietnam - Sweet Revenge</description>
      <ror:updatePeriod></ror:updatePeriod>
@@ -421,11 +413,19 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://jazzuo.net/SiteArchives/homepage.mac.com/luikawasumi/yumbo/jazzuo.html</link>
-     <title>íçà”</title>
-     <description>íçà”</description>
+     <link>https://jazzuo.net/games/jazzuos-balls-1/</link>
+     <title>Jazzuo.net! - jazzuos balls 1</title>
+     <description>Jazzuo.net! - jazzuos balls 1</description>
      <ror:updatePeriod></ror:updatePeriod>
-     <ror:sortOrder>4</ror:sortOrder>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://jazzuo.net/games/susu-hiragana-anti-pexeso/</link>
+     <title>Jazzuo.net! - susu hiragana anti pexeso</title>
+     <description>Jazzuo.net! - susu hiragana anti pexeso</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 </channel>
