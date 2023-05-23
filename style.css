@@ -57,7 +57,7 @@
     }
 }
 
-body{
+html, body{
   background-image: url(images/stars.gif);
   background-attachment: fixed;
   background-color: #140028; 
@@ -423,3 +423,25 @@ a{
     width: 70%;
   }
 }
+
+/* ===== Scrollbar CSS ===== */
+  /* Firefox */
+  * {
+    scrollbar-width: none;
+    scrollbar-color: #5c0075 #000000;
+  }
+
+  /* Chrome, Edge, and Safari */
+  *::-webkit-scrollbar {
+    width: 16px;
+  }
+
+  *::-webkit-scrollbar-track {
+    background: #000000;
+  }
+
+  *::-webkit-scrollbar-thumb {
+    background-color: #5c0075;
+    border-radius: 8px;
+    border: 0px none #000000;
+  }
