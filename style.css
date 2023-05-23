@@ -127,7 +127,7 @@ h1{
   margin-top: 20px;
 }
 
-img{
+img:not(.GameImg, .profile){
   image-rendering: pixelated;
   image-rendering: -moz-crisp-edges;
   image-rendering: crisp-edges;
