@@ -106,7 +106,7 @@ h1{
 }
 
 .catagories{
-  margin: 1rem;
+  position: relative;
   padding: 2rem 2rem;
   text-align: center;
 }
@@ -123,7 +123,8 @@ h1{
   color: white;
   border: solid white 3px;
   border-radius: 10px;
-  margin-right: 20px;
+  margin-right: 10px;
+  margin-left: 10px;
   margin-top: 20px;
 }
 
@@ -371,4 +372,54 @@ a{
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+/* Media Queries */
+
+@media (max-width: 600px) {
+  h1 {
+    width: 90%;
+  }
+
+  .info,
+  .warn {
+    width: 90%;
+  }
+
+  .backbox,
+  .imgAdjust,
+  .GameInfo,
+  .download,
+  .newgrounds,
+  .gamejolt,
+  .steam,
+  .disInfo,
+  .lang,
+  .siteRoll {
+    width: 90%;
+  }
+}
+
+@media (min-width: 601px) and (max-width: 900px) {
+  h1 {
+    width: 70%;
+  }
+
+  .info,
+  .warn {
+    width: 70%;
+  }
+
+  .backbox,
+  .imgAdjust,
+  .GameInfo,
+  .download,
+  .newgrounds,
+  .gamejolt,
+  .steam,
+  .disInfo,
+  .lang,
+  .siteRoll {
+    width: 70%;
+  }
 }
