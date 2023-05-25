@@ -16,10 +16,10 @@ jobs:
         fetch-depth: 0 
 
     - name: Generate the sitemap
-      uses: cicirello/generate-sitemap@e63c84b065d5530faaa5d8b95d3d53b1e974952f
+      uses: cicirello/generate-sitemap@v1.9.1
       with:
         base-url-path: https://www.jazzuo.net/
-        drop-html-extension: false
+        drop-html-extension: true
 
     - name: Commit and push
       run: |
