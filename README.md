@@ -7,5 +7,3 @@ The site is still a WIP but be sure to stop by here and there to see if there ar
 Check out the site here: [jazzuo.net](https://jazzuo.net)!
 
   **- Ant :D**
-
-![carbon consumption of this project](https://green-action.vercel.app/api/card?p=56&type=percent)
