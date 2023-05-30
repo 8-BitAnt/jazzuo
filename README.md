@@ -8,4 +8,4 @@ Check out the site here: [jazzuo.net](https://jazzuo.net)!
 
   **- Ant :D**
 
-![carbon consumption of this project](https://green-action.vercel.app/api/card?p=56.00000000000001&type=percent)
+![carbon consumption of this project](https://green-action.vercel.app/api/card?p=56&type=percent)
