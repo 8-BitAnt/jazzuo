@@ -1,162 +1,187 @@
-HTTrack3.49-2+htsswf+htsjava launched on Sat, 17 Jun 2023 21:15:57 at https://goodxfoood.webnode.cz/ +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.+*.css +*.+*.js +*.-ad.doubleclick.net/* +*.-mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv
-(winhttrack -qir20%e3C2%Pns2u1%s%uN100%I0p7DaK0H0%kf2A250000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://goodxfoood.webnode.cz/ -O1 "C:\Users\Ant\websites\HTTrack\gooodxfood" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.+*.css +*.+*.js +*.-ad.doubleclick.net/* +*.-mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv )
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 18 Jun 2023 00:32:09 at https://goodxfoood.webnode.cz/ +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.+*.css +*.+*.js +*.-ad.doubleclick.net/* +*.-mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv
+(winhttrack -qwr20%e3C2%Pns2u1%s%uN100%I0p7DaK0H0%kf2A250000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://goodxfoood.webnode.cz/ -O1 "C:\Users\Ant\websites\HTTrack\goodxfoood.webnoad.cz" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.+*.css +*.+*.js +*.-ad.doubleclick.net/* +*.-mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv )
 
 Information, Warnings and Errors reported for this mirror:
 note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
 	such as username/password authentication for websites mirrored in this project
 	do not share these files/folders if you want these information to remain private
 
-21:16:05	Error: 	"Not Found" (404) at link https://goodxfoood.webnode.cz/_files/ (from https://goodxfoood.webnode.cz/)
-21:16:14	Error: 	"Forbidden" (403) at link https://bb7976322e.cbaul-cdnwnd.com/23c7b765a28020e45633583999d9d314/ (from https://goodxfoood.webnode.cz/)
-21:17:12	Warning: 	Moved Permanently for https://goodxfoood.webnode.cz/home/
-21:17:12	Warning: 	File has moved from https://goodxfoood.webnode.cz/home/ to https://goodxfoood.webnode.cz/
-21:17:14	Warning: 	Moved Permanently for https://www.webnode.cz/?utm_source=text&utm_medium=footer&utm_campaign=free1
-21:17:14	Warning: 	File has moved from https://www.webnode.cz/?utm_source=text&utm_medium=footer&utm_campaign=free1 to https://www.webnode.com/cs/?utm_source=text&utm_medium=footer&utm_campaign=free1
-21:17:14	Warning: 	Moved Permanently for https://www.webnode.cz/?utm_source=button&utm_medium=footer&utm_campaign=free1
-21:17:14	Warning: 	File has moved from https://www.webnode.cz/?utm_source=button&utm_medium=footer&utm_campaign=free1 to https://www.webnode.com/cs/?utm_source=button&utm_medium=footer&utm_campaign=free1
-21:17:14	Warning: 	Moved Permanently for https://www.webnode.cz/?utm_source=window&utm_medium=footer&utm_campaign=free1
-21:17:14	Warning: 	File has moved from https://www.webnode.cz/?utm_source=window&utm_medium=footer&utm_campaign=free1 to https://www.webnode.com/cs/?utm_source=window&utm_medium=footer&utm_campaign=free1
-21:17:14	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.webnode.cz/?utm_source=window&utm_medium=footer&utm_content=cz-web-0&utm_campaign=signature (from https://goodxfoood.webnode.cz/)
-21:17:14	Warning: 	Moved Permanently for https://www.webnode.cz/
-21:17:14	Warning: 	File has moved from https://www.webnode.cz/ to https://www.webnode.com/cs/
-21:17:28	Warning: 	file not stored in cache due to bogus state (incomplete type with No Content (204), size 0): https://www.youtube.com/error_204?t=jserror&level=ERROR
-21:17:30	Warning: 	file not stored in cache due to bogus state (incomplete type with No Content (204), size 0): https://i.ytimg.com/generate_204
-21:17:57	Warning: 	Moved Permanently for https://www.webnode.cz/?utm_source=window&utm_medium=footer&utm_content=cz-web-0&utm_campaign=signature
-21:17:57	Warning: 	File has moved from https://www.webnode.cz/?utm_source=window&utm_medium=footer&utm_content=cz-web-0&utm_campaign=signature to https://www.webnode.com/cs/?utm_source=window&utm_medium=footer&utm_content=cz-web-0&utm_campaign=signature
-21:18:11	Error: 	"No Content" (204) at link https://www.youtube.com/error_204?t=jserror&level=ERROR (from https://www.youtube.com/watch?v=djJ3P-YTBnc)
-21:18:12	Error: 	"No Content" (204) at link https://i.ytimg.com/generate_204 (from https://www.youtube.com/watch?v=djJ3P-YTBnc)
-21:18:17	Error: 	"Not Found" (404) at link https://www.youtube.com/ios-app:/544007664/vnd.youtube/www.youtube.com/watch?v=djJ3P-YTBnc (from https://www.youtube.com/watch?v=djJ3P-YTBnc)
-21:18:20	Error: 	"Not Found" (404) at link https://www.youtube.com/Edg/ (from https://www.youtube.com/watch?v=djJ3P-YTBnc)
-21:18:20	Warning: 	Moved Permanently for https://www.youtube.com/about/
-21:18:20	Warning: 	File has moved from https://www.youtube.com/about/ to https://about.youtube/
-21:18:20	Warning: 	Moved Permanently for https://www.youtube.com/about/press/
-21:18:20	Warning: 	File has moved from https://www.youtube.com/about/press/ to https://blog.youtube/
-21:18:20	Warning: 	Moved Permanently for https://www.youtube.com/about/copyright/
-21:18:20	Warning: 	File has moved from https://www.youtube.com/about/copyright/ to https://www.youtube.com/howyoutubeworks/policies/copyright/
-21:18:37	Warning: 	Link https://www.youtube.com/ads/ not scanned (follow robots meta tag)
-21:18:37	Warning: 	Moved Permanently for https://www.youtube.com/about/policies/
-21:18:37	Warning: 	File has moved from https://www.youtube.com/about/policies/ to https://www.youtube.com/howyoutubeworks/policies/community-guidelines/
-21:18:48	Error: 	"Not Found" (404) at link https://www.youtube.com/ios-app:/544007664/vnd.youtube/www.youtube.com/watch?v=mMRPuiNHFOA (from https://www.youtube.com/watch?v=mMRPuiNHFOA)
-21:18:48	Warning: 	Warning: store text/html without scan: C:/Users/Ant/websites/HTTrack/gooodxfood/channel/UCjaFblyfqwCBM1-_t2Q9jlQ.html
-21:18:48	Warning: 	Warning: store text/html without scan: C:/Users/Ant/websites/HTTrack/gooodxfood/channel/UCp_RYPBbJzN3yhICAUF8a_w.html
-21:18:49	Warning: 	Warning: store text/css without scan: C:/Users/Ant/websites/HTTrack/gooodxfood/css7f8d.css
-21:18:49	Warning: 	Warning: store text/css without scan: C:/Users/Ant/websites/HTTrack/gooodxfood/css0981.css
-21:18:49	Warning: 	Warning: store text/html without scan: C:/Users/Ant/websites/HTTrack/gooodxfood/intl/en_us/creators/index.html
-21:18:49	Error: 	"Bad Request" (400) at link lh3.googleusercontent.com/ (from https://www.youtube.com/creators/)
-21:18:50	Error: 	"No data (connection closed)" (-4) after 2 retries at link kstatic.googleusercontent.com/robots.txt (from https://www.youtube.com/creators/)
-21:18:50	Warning: 	Retry after error -4 (No data (connection closed)) at link kstatic.googleusercontent.com/ (from https://www.youtube.com/creators/)
-21:18:50	Warning: 	Warning: store text/css without scan: C:/Users/Ant/websites/HTTrack/gooodxfood/cssd7cb.css
-21:18:50	Warning: 	Warning: store text/css without scan: C:/Users/Ant/websites/HTTrack/gooodxfood/css4f05.css
-21:18:51	Warning: 	Warning: store text/html without scan: C:/Users/Ant/websites/HTTrack/gooodxfood/howyoutubeworks/index.html
-21:18:51	Error: 	"Not Found" (404) at link https://fonts.gstatic.com/ (from https://www.youtube.com/howyoutubeworks/?utm_campaign=ytgen&utm_source=ythp&utm_medium=LeftNav&utm_content=txt&u=https%3A%2F%2Fwww.youtube.com%2Fhowyoutubeworks%3Futm_source%3Dythp%26utm_medium%3DLeftNav%26utm_campaign%3Dytgen)
-21:18:51	Warning: 	Warning: store text/css without scan: C:/Users/Ant/websites/HTTrack/gooodxfood/cssc284.css
-21:18:51	Warning: 	Warning: store text/css without scan: C:/Users/Ant/websites/HTTrack/gooodxfood/css7f47.css
-21:18:51	Warning: 	Retry after error -4 (No data (connection closed)) at link kstatic.googleusercontent.com/ (from https://www.youtube.com/creators/)
-21:18:51	Error: 	"No data (connection closed)" (-4) after 2 retries at link kstatic.googleusercontent.com/ (from https://www.youtube.com/creators/)
-21:19:14	Warning: 	HTML file (244046 bytes) retransferred due to lack of cache: https://d11bh4d8fhuq47.cloudfront.net/
-21:19:17	Error: 	"Not Found" (404) at link https://goodxfoood.webnode.cz/wnd_header.set (from https://goodxfoood.webnode.cz/)
-21:20:16	Error: 	"Not Found" (404) at link https://goodxfoood.webnode.cz/_files/ (from https://goodxfoood.webnode.cz/)
-21:20:54	Error: 	"Not Found" (404) at link https://goodxfoood.webnode.cz/_files/200000026-ba92dbb8d7/logogdfd.jpg (from https://goodxfoood.webnode.cz/)
-21:21:17	Error: 	"Not Found" (404) at link https://goodxfoood.webnode.cz/_files/200000022-cff48d0ee8/realná věc_Layer 1.jpg?ph=bb7976322e (from https://goodxfoood.webnode.cz/)
-21:21:18	Warning: 	Retry after error -5 (Unable to open local file) at link file:///H:/IMG_0449.JPG (from https://goodxfoood.webnode.cz/)
-21:21:35	Error: 	"Not Found" (404) at link https://goodxfoood.webnode.cz/_files/system_preview_small_200000022-cff48d0ee8/realná věc_Layer 1.jpg (from https://goodxfoood.webnode.cz/)
-21:21:36	Warning: 	HTML file (995 bytes) retransferred due to lack of cache: https://www.webnode.cz/?utm_source=window&utm_medium=footer&utm_campaign=free1
-21:21:39	Warning: 	Moved Permanently for https://www.webnode.cz/?utm_source=window&utm_medium=footer&utm_campaign=free1
-21:21:39	Warning: 	File has moved from https://www.webnode.cz/?utm_source=window&utm_medium=footer&utm_campaign=free1 to https://www.webnode.com/cs/?utm_source=window&utm_medium=footer&utm_campaign=free1
-21:21:39	Warning: 	HTML file (767 bytes) retransferred due to lack of cache: https://www.webnode.cz/
-21:21:41	Warning: 	Moved Permanently for https://www.webnode.cz/
-21:21:41	Warning: 	File has moved from https://www.webnode.cz/ to https://www.webnode.com/cs/
-21:21:55	Error: 	"Unable to rename file on disk" (-1) at link https://bb7976322e.cbaul-cdnwnd.com/23c7b765a28020e45633583999d9d314/system_preview_small_200000001-0a0da0b07b-public/gdfd2.jpg (from https://goodxfoood.webnode.cz/fotogalerie/)
-21:22:52	Error: 	"Unable to rename file on disk" (-1) at link https://bb7976322e.cbaul-cdnwnd.com/23c7b765a28020e45633583999d9d314/system_preview_small_200000005-2def92ee8d-public/gdfd6.jpg (from https://goodxfoood.webnode.cz/fotogalerie/)
-21:23:55	Error: 	"Not Found" (404) at link https://www.youtube.com/img/meh7.png (from https://www.youtube.com/embed/djJ3P-YTBnc?rel=0&wmode=transparent)
-21:23:55	Warning: 	HTML file (596868 bytes) retransferred due to lack of cache: https://www.youtube.com/watch?v=djJ3P-YTBnc
-21:24:49	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.youtube.com/watch?v=djJ3P-YTBnc (from https://www.youtube.com/embed/djJ3P-YTBnc?rel=0&wmode=transparent)
-21:24:49	Warning: 	HTML file (1099 bytes) retransferred due to lack of cache: https://www.webnode.cz/?utm_source=window&utm_medium=footer&utm_content=cz-web-0&utm_campaign=signature
-21:24:52	Warning: 	Moved Permanently for https://www.webnode.cz/?utm_source=window&utm_medium=footer&utm_content=cz-web-0&utm_campaign=signature
-21:24:52	Warning: 	File has moved from https://www.webnode.cz/?utm_source=window&utm_medium=footer&utm_content=cz-web-0&utm_campaign=signature to https://www.webnode.com/cs/?utm_source=window&utm_medium=footer&utm_content=cz-web-0&utm_campaign=signature
-21:24:54	Warning: 	Link https://goodxfoood.webnode.cz/images/200000000-8fe7790e12-public/gdfd1.jpg?s3=1 not scanned (follow robots meta tag)
-21:24:55	Warning: 	Link https://goodxfoood.webnode.cz/images/200000001-0a0da0b07b-public/gdfd2.jpg?s3=1 not scanned (follow robots meta tag)
-21:25:13	Warning: 	Link https://goodxfoood.webnode.cz/images/200000002-86ff587f9d-public/gdfd3.jpg?s3=1 not scanned (follow robots meta tag)
-21:25:38	Warning: 	Link https://goodxfoood.webnode.cz/images/200000003-0fcc110c5d-public/gdfd4.jpg?s3=1 not scanned (follow robots meta tag)
-21:26:32	Warning: 	Link https://goodxfoood.webnode.cz/images/200000004-a90aaaa04f-public/gdfd5.jpg?s3=1 not scanned (follow robots meta tag)
-21:26:54	Warning: 	Link https://goodxfoood.webnode.cz/images/200000005-2def92ee8d-public/gdfd6.jpg?s3=1 not scanned (follow robots meta tag)
-21:27:47	Warning: 	Link https://goodxfoood.webnode.cz/images/200000006-acd3badcd2-public/gdfd7.jpg?s3=1 not scanned (follow robots meta tag)
-21:28:13	Warning: 	Link https://goodxfoood.webnode.cz/images/200000007-34a5c359f8-public/gdfd8.jpg?s3=1 not scanned (follow robots meta tag)
-21:28:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.youtube.com/opensearch?locale=en_US
-21:28:30	Warning: 	Link https://goodxfoood.webnode.cz/images/200000028-749987593b-public/designer+JOO+Kawasumi.jpg?s3=1 not scanned (follow robots meta tag)
-21:28:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.youtube.com/manifest.webmanifest
-21:29:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.youtube.com/oembed?format=xml&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdjJ3P-YTBnc
-21:29:09	Warning: 	Link https://goodxfoood.webnode.cz/images/200000029-e4e7be5e20-public/realná+věc.jpg?s3=1 not scanned (follow robots meta tag)
-21:29:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdjJ3P-YTBnc
-21:29:21	Error: 	"Unable to rename file on disk" (-1) at link https://bb7976322e.cbaul-cdnwnd.com/23c7b765a28020e45633583999d9d314/system_preview_small_200000030-771fc78195-public/sada2.jpg (from https://goodxfoood.webnode.cz/fotogalerie/photogallerycbm_810881/10/)
-21:30:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.youtube.com/oembed?format=xml&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DmMRPuiNHFOA
-21:30:44	Error: 	"Unable to rename file on disk" (-1) at link https://bb7976322e.cbaul-cdnwnd.com/23c7b765a28020e45633583999d9d314/system_preview_small_200000036-b32f6b4299-public/p2.jpg (from https://goodxfoood.webnode.cz/fotogalerie/photogallerycbm_810881/10/)
-21:31:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DmMRPuiNHFOA
-21:31:37	Error: 	"Unable to rename file on disk" (-1) at link https://bb7976322e.cbaul-cdnwnd.com/23c7b765a28020e45633583999d9d314/system_preview_small_200000067-8a0f78b09a-public/18.jpg (from https://goodxfoood.webnode.cz/fotogalerie/photogallerycbm_810881/20/)
-21:32:35	Error: 	"Unable to rename file on disk" (-1) at link https://bb7976322e.cbaul-cdnwnd.com/23c7b765a28020e45633583999d9d314/system_preview_small_200000121-8cf768df12-public/canon 001 066.jpg (from https://goodxfoood.webnode.cz/fotogalerie/photogallerycbm_810881/20/)
-21:34:02	Error: 	"Unable to rename file on disk" (-1) at link https://bb7976322e.cbaul-cdnwnd.com/23c7b765a28020e45633583999d9d314/system_preview_small_200000125-98b0599aa5-public/canon 001 070.jpg (from https://goodxfoood.webnode.cz/fotogalerie/photogallerycbm_810881/20/)
-21:34:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.youtube.com/feeds/videos.xml?channel_id=UCjaFblyfqwCBM1-_t2Q9jlQ
-21:34:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.youtube.com/feeds/videos.xml?channel_id=UCp_RYPBbJzN3yhICAUF8a_w
-21:35:44	Error: 	"Unable to rename file on disk" (-1) at link https://bb7976322e.cbaul-cdnwnd.com/23c7b765a28020e45633583999d9d314/system_preview_small_200000132-4ac5d4bbfc-public/canon 001 078.jpg (from https://goodxfoood.webnode.cz/fotogalerie/photogallerycbm_810881/30/)
-21:37:14	Error: 	"Unable to rename file on disk" (-1) at link https://bb7976322e.cbaul-cdnwnd.com/23c7b765a28020e45633583999d9d314/system_preview_small_200000136-632ec6428c-public/canon 001 082.jpg (from https://goodxfoood.webnode.cz/fotogalerie/photogallerycbm_810881/40/)
-21:39:58	Error: 	"Unable to rename file on disk" (-1) at link https://bb7976322e.cbaul-cdnwnd.com/23c7b765a28020e45633583999d9d314/system_preview_small_200000143-51eb752e4f-public/canon 001 100.jpg (from https://goodxfoood.webnode.cz/fotogalerie/photogallerycbm_810881/40/)
-21:40:24	Error: 	"Unable to rename file on disk" (-1) at link https://bb7976322e.cbaul-cdnwnd.com/23c7b765a28020e45633583999d9d314/system_preview_small_200000156-8c82d8d7cf-public/canon 001 133.jpg (from https://goodxfoood.webnode.cz/fotogalerie/photogallerycbm_810881/60/)
-21:42:24	Error: 	"Unable to rename file on disk" (-1) at link https://bb7976322e.cbaul-cdnwnd.com/23c7b765a28020e45633583999d9d314/system_preview_small_200000162-aff8fb0f2d-public/vít.jpg (from https://goodxfoood.webnode.cz/fotogalerie/photogallerycbm_810881/60/)
-21:42:24	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://www.youtube.com/error_204?t=jserror&level=ERROR
-21:42:25	Error: 	"No Content" (204) at link https://www.youtube.com/error_204?t=jserror&level=ERROR (from https://www.youtube.com/watch?v=djJ3P-YTBnc)
-21:43:59	Warning: 	HTML file (535835 bytes) retransferred due to lack of cache: https://www.youtube.com/watch?app=desktop&v=djJ3P-YTBnc
-21:44:57	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.youtube.com/watch?app=desktop&v=djJ3P-YTBnc (from https://www.youtube.com/watch?v=djJ3P-YTBnc)
-21:44:57	Warning: 	HTML file (414645 bytes) retransferred due to lack of cache: https://www.youtube.com/@jazzuo
-21:45:37	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.youtube.com/@jazzuo (from https://www.youtube.com/watch?v=djJ3P-YTBnc)
-21:45:37	Warning: 	HTML file (771 bytes) retransferred due to lack of cache: https://www.youtube.com/about/
-21:45:37	Warning: 	Moved Permanently for https://www.youtube.com/about/
-21:45:37	Warning: 	File has moved from https://www.youtube.com/about/ to https://about.youtube/
-21:46:29	Error: 	"Not Found" (404) at link https://www.youtube.com/async_attach_app_loader.js (from https://www.youtube.com/watch?v=djJ3P-YTBnc)
-21:46:29	Warning: 	HTML file (70071 bytes) retransferred due to lack of cache: https://www.youtube.com/embed/mMRPuiNHFOA
-21:46:36	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.youtube.com/embed/mMRPuiNHFOA (from https://www.youtube.com/watch?v=mMRPuiNHFOA)
-21:46:37	Error: 	"Unable to rename file on disk" (-1) at link https://bb7976322e.cbaul-cdnwnd.com/23c7b765a28020e45633583999d9d314/system_preview_detail_200000037-5f823607c3-public/p6.jpg (from https://goodxfoood.webnode.cz/album/fotogalerie/p6-jpg/)
-21:46:40	Error: 	"Unable to rename file on disk" (-1) at link https://bb7976322e.cbaul-cdnwnd.com/23c7b765a28020e45633583999d9d314/system_preview_detail_200000063-0c12c0d0c8-public/5.jpg (from https://goodxfoood.webnode.cz/album/fotogalerie/a5-jpg/)
-21:46:40	Error: 	"Unable to rename file on disk" (-1) at link https://bb7976322e.cbaul-cdnwnd.com/23c7b765a28020e45633583999d9d314/system_preview_detail_200000070-aec3eafbd5-public/ko(u)ření.jpg (from https://goodxfoood.webnode.cz/album/fotogalerie/ko-u-reni-jpg/)
-21:47:43	Error: 	"Unable to rename file on disk" (-1) at link https://bb7976322e.cbaul-cdnwnd.com/23c7b765a28020e45633583999d9d314/system_preview_detail_200000136-632ec6428c-public/canon 001 082.jpg (from https://goodxfoood.webnode.cz/album/fotogalerie/canon-001-082-jpg/)
-21:48:24	Error: 	"Unable to rename file on disk" (-1) at link https://bb7976322e.cbaul-cdnwnd.com/23c7b765a28020e45633583999d9d314/system_preview_detail_200000137-ece16eddb0-public/canon 001 084.jpg (from https://goodxfoood.webnode.cz/album/fotogalerie/canon-001-084-jpg/)
-21:48:29	Error: 	"Unable to rename file on disk" (-1) at link https://bb7976322e.cbaul-cdnwnd.com/23c7b765a28020e45633583999d9d314/system_preview_detail_200000158-9839999337-public/canon 001 135.jpg (from https://goodxfoood.webnode.cz/album/fotogalerie/canon-001-135-jpg/)
-21:48:36	Error: 	"Unable to rename file on disk" (-1) at link https://bb7976322e.cbaul-cdnwnd.com/23c7b765a28020e45633583999d9d314/system_preview_detail_200000159-24ff825f9c-public/canon 001 136.jpg (from https://goodxfoood.webnode.cz/album/fotogalerie/canon-001-136-jpg/)
-21:48:37	Error: 	"Unable to rename file on disk" (-1) at link https://bb7976322e.cbaul-cdnwnd.com/23c7b765a28020e45633583999d9d314/system_preview_detail_200000160-a5e76a6e1c-public/daska.jpg (from https://goodxfoood.webnode.cz/album/fotogalerie/daska-jpg/)
-21:49:18	Error: 	"Unable to rename file on disk" (-1) at link https://bb7976322e.cbaul-cdnwnd.com/23c7b765a28020e45633583999d9d314/system_preview_detail_200000161-300aa3104d-public/kamča.jpg (from https://goodxfoood.webnode.cz/album/fotogalerie/kamca-jpg/)
-21:49:31	Error: 	"Unable to rename file on disk" (-1) at link https://bb7976322e.cbaul-cdnwnd.com/23c7b765a28020e45633583999d9d314/system_preview_detail_200000162-aff8fb0f2d-public/vít.jpg (from https://goodxfoood.webnode.cz/album/fotogalerie/vit-jpg/)
-21:49:31	Error: 	"Unable to rename file on disk" (-1) at link https://bb7976322e.cbaul-cdnwnd.com/23c7b765a28020e45633583999d9d314/system_preview_detail_200000163-3919d3a13f-public/vítek.jpg (from https://goodxfoood.webnode.cz/album/fotogalerie/vitek-jpg/)
-21:49:32	Warning: 	HTML file (415131 bytes) retransferred due to lack of cache: https://www.youtube.com/channel/UCp_RYPBbJzN3yhICAUF8a_w
-21:50:12	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.youtube.com/channel/UCp_RYPBbJzN3yhICAUF8a_w (from https://www.youtube.com/@jazzuo)
-21:50:36	Warning: 	HTML file (154226 bytes) retransferred due to lack of cache: https://www.youtube.com/intl/en_us/creators/
-21:50:52	Warning: 	Warning: store text/html without scan: C:/Users/Ant/websites/HTTrack/gooodxfood/intl/en_us/creators/index.html
-21:51:05	Warning: 	Warning: store text/css without scan: C:/Users/Ant/websites/HTTrack/gooodxfood/creators/static/compiled/index.min.css
-21:52:09	Warning: 	HTML file (130695 bytes) retransferred due to lack of cache: https://www.youtube.com/howyoutubeworks/
-21:52:22	Warning: 	Warning: store text/html without scan: C:/Users/Ant/websites/HTTrack/gooodxfood/howyoutubeworks/index.html
-21:52:40	Warning: 	Warning: store text/css without scan: C:/Users/Ant/websites/HTTrack/gooodxfood/howyoutubeworks/static/compiled/index.min5104.css
-21:52:52	Warning: 	Warning: store image/svg+xml without scan: C:/Users/Ant/websites/HTTrack/gooodxfood/youtube/img/branding/youtubelogo/svg/youtubelogo.svg
-21:53:33	Warning: 	HTML file (596868 bytes) retransferred due to lack of cache: https://www.youtube.com/watch?v=djJ3P-YTBnc
-21:54:00	Warning: 	HTML file (535835 bytes) retransferred due to lack of cache: https://www.youtube.com/watch?app=desktop&v=djJ3P-YTBnc
-21:54:10	Warning: 	HTML file (414645 bytes) retransferred due to lack of cache: https://www.youtube.com/@jazzuo
-21:54:32	Warning: 	HTML file (70071 bytes) retransferred due to lack of cache: https://www.youtube.com/embed/mMRPuiNHFOA
-21:54:39	Warning: 	HTML file (415131 bytes) retransferred due to lack of cache: https://www.youtube.com/channel/UCp_RYPBbJzN3yhICAUF8a_w
-21:54:51	Warning: 	Warning: store text/css without scan: C:/Users/Ant/websites/HTTrack/gooodxfood/s/desktop/7fca68b5/cssbin/www-main-desktop-home-page-skeleton.css
-21:54:51	Warning: 	Retry after error -5 (Unable to open local file) at link file:///H:/IMG_0449.JPG (from https://goodxfoood.webnode.cz/)
-21:54:51	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.youtube.com/watch?v=djJ3P-YTBnc (from https://www.youtube.com/embed/djJ3P-YTBnc?rel=0&wmode=transparent)
-21:54:51	Warning: 	HTML file (596868 bytes) retransferred due to lack of cache: https://www.youtube.com/watch?v=djJ3P-YTBnc
-21:54:51	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.youtube.com/watch?app=desktop&v=djJ3P-YTBnc (from https://www.youtube.com/watch?v=djJ3P-YTBnc)
-21:54:51	Warning: 	HTML file (535835 bytes) retransferred due to lack of cache: https://www.youtube.com/watch?app=desktop&v=djJ3P-YTBnc
-21:54:51	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.youtube.com/@jazzuo (from https://www.youtube.com/watch?v=djJ3P-YTBnc)
-21:54:51	Warning: 	HTML file (414645 bytes) retransferred due to lack of cache: https://www.youtube.com/@jazzuo
-21:55:14	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.youtube.com/embed/mMRPuiNHFOA (from https://www.youtube.com/watch?v=mMRPuiNHFOA)
-21:55:14	Warning: 	HTML file (70071 bytes) retransferred due to lack of cache: https://www.youtube.com/embed/mMRPuiNHFOA
-21:55:21	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.youtube.com/channel/UCp_RYPBbJzN3yhICAUF8a_w (from https://www.youtube.com/@jazzuo)
-21:55:22	Warning: 	HTML file (415131 bytes) retransferred due to lack of cache: https://www.youtube.com/channel/UCp_RYPBbJzN3yhICAUF8a_w
-21:55:31	Error: 	"Unable to open local file" (-5) after 2 retries at link file:///H:/IMG_0449.JPG (from https://goodxfoood.webnode.cz/)
-21:55:31	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.youtube.com/watch?v=djJ3P-YTBnc (from https://www.youtube.com/embed/djJ3P-YTBnc?rel=0&wmode=transparent)
-21:55:31	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.youtube.com/watch?app=desktop&v=djJ3P-YTBnc (from https://www.youtube.com/watch?v=djJ3P-YTBnc)
-21:55:32	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.youtube.com/@jazzuo (from https://www.youtube.com/watch?v=djJ3P-YTBnc)
-21:55:32	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.youtube.com/embed/mMRPuiNHFOA (from https://www.youtube.com/watch?v=mMRPuiNHFOA)
-21:55:32	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.youtube.com/channel/UCp_RYPBbJzN3yhICAUF8a_w (from https://www.youtube.com/@jazzuo)
+00:32:21	Error: 	"Not Found" (404) at link https://goodxfoood.webnode.cz/_files/ (from https://goodxfoood.webnode.cz/)
+00:32:29	Error: 	"Forbidden" (403) at link https://bb7976322e.cbaul-cdnwnd.com/23c7b765a28020e45633583999d9d314/ (from https://goodxfoood.webnode.cz/)
+00:33:30	Warning: 	Moved Permanently for https://goodxfoood.webnode.cz/home/
+00:33:30	Warning: 	File has moved from https://goodxfoood.webnode.cz/home/ to https://goodxfoood.webnode.cz/
+00:33:33	Warning: 	Moved Permanently for https://www.webnode.cz/?utm_source=text&utm_medium=footer&utm_campaign=free1
+00:33:33	Warning: 	File has moved from https://www.webnode.cz/?utm_source=text&utm_medium=footer&utm_campaign=free1 to https://www.webnode.com/cs/?utm_source=text&utm_medium=footer&utm_campaign=free1
+00:33:33	Warning: 	Moved Permanently for https://www.webnode.cz/?utm_source=button&utm_medium=footer&utm_campaign=free1
+00:33:33	Warning: 	File has moved from https://www.webnode.cz/?utm_source=button&utm_medium=footer&utm_campaign=free1 to https://www.webnode.com/cs/?utm_source=button&utm_medium=footer&utm_campaign=free1
+00:33:33	Warning: 	Moved Permanently for https://www.webnode.cz/?utm_source=window&utm_medium=footer&utm_campaign=free1
+00:33:33	Warning: 	File has moved from https://www.webnode.cz/?utm_source=window&utm_medium=footer&utm_campaign=free1 to https://www.webnode.com/cs/?utm_source=window&utm_medium=footer&utm_campaign=free1
+00:33:33	Warning: 	Moved Permanently for https://www.webnode.cz/?utm_source=window&utm_medium=footer&utm_content=cz-web-0&utm_campaign=signature
+00:33:33	Warning: 	File has moved from https://www.webnode.cz/?utm_source=window&utm_medium=footer&utm_content=cz-web-0&utm_campaign=signature to https://www.webnode.com/cs/?utm_source=window&utm_medium=footer&utm_content=cz-web-0&utm_campaign=signature
+00:33:33	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.webnode.cz/ (from https://goodxfoood.webnode.cz/)
+00:33:53	Warning: 	file not stored in cache due to bogus state (incomplete type with No Content (204), size 0): https://www.youtube.com/error_204?t=jserror&level=ERROR
+00:33:55	Warning: 	file not stored in cache due to bogus state (incomplete type with No Content (204), size 0): https://i.ytimg.com/generate_204
+00:34:19	Warning: 	Moved Permanently for https://www.webnode.cz/
+00:34:19	Warning: 	File has moved from https://www.webnode.cz/ to https://www.webnode.com/cs/
+00:34:35	Error: 	"No Content" (204) at link https://www.youtube.com/error_204?t=jserror&level=ERROR (from https://www.youtube.com/watch?v=djJ3P-YTBnc)
+00:34:36	Error: 	"No Content" (204) at link https://i.ytimg.com/generate_204 (from https://www.youtube.com/watch?v=djJ3P-YTBnc)
+00:34:41	Error: 	"Not Found" (404) at link https://www.youtube.com/ios-app:/544007664/vnd.youtube/www.youtube.com/watch?v=djJ3P-YTBnc (from https://www.youtube.com/watch?v=djJ3P-YTBnc)
+00:34:44	Error: 	"Not Found" (404) at link https://www.youtube.com/Edg/ (from https://www.youtube.com/watch?v=djJ3P-YTBnc)
+00:34:44	Warning: 	Moved Permanently for https://www.youtube.com/about/
+00:34:44	Warning: 	File has moved from https://www.youtube.com/about/ to https://about.youtube/
+00:34:44	Warning: 	Moved Permanently for https://www.youtube.com/about/press/
+00:34:44	Warning: 	File has moved from https://www.youtube.com/about/press/ to https://blog.youtube/
+00:34:44	Warning: 	Moved Permanently for https://www.youtube.com/about/copyright/
+00:34:44	Warning: 	File has moved from https://www.youtube.com/about/copyright/ to https://www.youtube.com/howyoutubeworks/policies/copyright/
+00:35:01	Warning: 	Link https://www.youtube.com/ads/ not scanned (follow robots meta tag)
+00:35:01	Warning: 	Moved Permanently for https://www.youtube.com/about/policies/
+00:35:01	Warning: 	File has moved from https://www.youtube.com/about/policies/ to https://www.youtube.com/howyoutubeworks/policies/community-guidelines/
+00:35:12	Error: 	"Not Found" (404) at link https://www.youtube.com/ios-app:/544007664/vnd.youtube/www.youtube.com/watch?v=mMRPuiNHFOA (from https://www.youtube.com/watch?v=mMRPuiNHFOA)
+00:35:12	Warning: 	Warning: store text/html without scan: C:/Users/Ant/websites/HTTrack/goodxfoood.webnoad.cz/channel/UCjaFblyfqwCBM1-_t2Q9jlQ.html
+00:35:13	Warning: 	Warning: store text/html without scan: C:/Users/Ant/websites/HTTrack/goodxfoood.webnoad.cz/channel/UCp_RYPBbJzN3yhICAUF8a_w.html
+00:35:13	Warning: 	Warning: store text/css without scan: C:/Users/Ant/websites/HTTrack/goodxfoood.webnoad.cz/css7f8d.css
+00:35:13	Warning: 	Warning: store text/css without scan: C:/Users/Ant/websites/HTTrack/goodxfoood.webnoad.cz/css0981.css
+00:35:13	Warning: 	Warning: store text/html without scan: C:/Users/Ant/websites/HTTrack/goodxfoood.webnoad.cz/intl/en_us/creators/index.html
+00:35:13	Error: 	"Bad Request" (400) at link lh3.googleusercontent.com/ (from https://www.youtube.com/creators/)
+00:35:14	Error: 	"No data (connection closed)" (-4) after 2 retries at link kstatic.googleusercontent.com/robots.txt (from https://www.youtube.com/creators/)
+00:35:14	Warning: 	Retry after error -4 (No data (connection closed)) at link kstatic.googleusercontent.com/ (from https://www.youtube.com/creators/)
+00:35:14	Warning: 	Warning: store text/css without scan: C:/Users/Ant/websites/HTTrack/goodxfoood.webnoad.cz/cssd7cb.css
+00:35:14	Warning: 	Warning: store text/css without scan: C:/Users/Ant/websites/HTTrack/goodxfoood.webnoad.cz/css4f05.css
+00:35:15	Warning: 	Warning: store text/html without scan: C:/Users/Ant/websites/HTTrack/goodxfoood.webnoad.cz/howyoutubeworks/index.html
+00:35:15	Error: 	"Not Found" (404) at link https://fonts.gstatic.com/ (from https://www.youtube.com/howyoutubeworks/?utm_campaign=ytgen&utm_source=ythp&utm_medium=LeftNav&utm_content=txt&u=https%3A%2F%2Fwww.youtube.com%2Fhowyoutubeworks%3Futm_source%3Dythp%26utm_medium%3DLeftNav%26utm_campaign%3Dytgen)
+00:35:15	Warning: 	Warning: store text/css without scan: C:/Users/Ant/websites/HTTrack/goodxfoood.webnoad.cz/cssc284.css
+00:35:15	Warning: 	Warning: store text/css without scan: C:/Users/Ant/websites/HTTrack/goodxfoood.webnoad.cz/css7f47.css
+00:35:15	Warning: 	Retry after error -4 (No data (connection closed)) at link kstatic.googleusercontent.com/ (from https://www.youtube.com/creators/)
+00:35:15	Error: 	"No data (connection closed)" (-4) after 2 retries at link kstatic.googleusercontent.com/ (from https://www.youtube.com/creators/)
+00:35:16	Warning: 	HTML file (244046 bytes) retransferred due to lack of cache: https://d11bh4d8fhuq47.cloudfront.net/
+00:35:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://goodxfoood.webnode.cz/rss/all.xml
+00:35:27	Error: 	"Not Found" (404) at link https://goodxfoood.webnode.cz/wnd_header.set (from https://goodxfoood.webnode.cz/)
+00:36:21	Warning: 	HTML file (146 bytes) retransferred due to lack of cache: https://goodxfoood.webnode.cz/_files/
+00:36:22	Error: 	"Not Found" (404) at link https://goodxfoood.webnode.cz/_files/ (from https://goodxfoood.webnode.cz/)
+00:37:05	Error: 	"Not Found" (404) at link https://goodxfoood.webnode.cz/_files/200000026-ba92dbb8d7/logogdfd.jpg (from https://goodxfoood.webnode.cz/)
+00:37:06	Error: 	"Not Found" (404) at link https://goodxfoood.webnode.cz/_files/200000022-cff48d0ee8/realná věc_Layer 1.jpg?ph=bb7976322e (from https://goodxfoood.webnode.cz/)
+00:37:06	Warning: 	Retry after error -5 (Unable to open local file) at link file:///H:/IMG_0449.JPG (from https://goodxfoood.webnode.cz/)
+00:37:06	Warning: 	HTML file (24594 bytes) retransferred due to lack of cache: https://goodxfoood.webnode.cz/news/zimni-spanek/
+00:37:19	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://goodxfoood.webnode.cz/rss/novinky.xml
+00:37:41	Error: 	"Not Found" (404) at link https://goodxfoood.webnode.cz/_files/system_preview_small_200000022-cff48d0ee8/realná věc_Layer 1.jpg (from https://goodxfoood.webnode.cz/)
+00:37:41	Warning: 	HTML file (995 bytes) retransferred due to lack of cache: https://www.webnode.cz/?utm_source=window&utm_medium=footer&utm_campaign=free1
+00:37:44	Warning: 	Moved Permanently for https://www.webnode.cz/?utm_source=window&utm_medium=footer&utm_campaign=free1
+00:37:44	Warning: 	File has moved from https://www.webnode.cz/?utm_source=window&utm_medium=footer&utm_campaign=free1 to https://www.webnode.com/cs/?utm_source=window&utm_medium=footer&utm_campaign=free1
+00:38:25	Warning: 	HTML file (24132 bytes) retransferred due to lack of cache: https://goodxfoood.webnode.cz/album/fotogalerie/gdfd1-jpg/
+00:39:11	Warning: 	HTML file (24178 bytes) retransferred due to lack of cache: https://goodxfoood.webnode.cz/album/fotogalerie/gdfd5-jpg/
+00:39:13	Warning: 	HTML file (24401 bytes) retransferred due to lack of cache: https://goodxfoood.webnode.cz/album/fotogalerie/gdfd6-jpg/
+00:39:15	Warning: 	HTML file (24198 bytes) retransferred due to lack of cache: https://goodxfoood.webnode.cz/album/fotogalerie/gdfd7-jpg/
+00:39:36	Warning: 	HTML file (24225 bytes) retransferred due to lack of cache: https://goodxfoood.webnode.cz/album/fotogalerie/gdfd8-jpg/
+00:39:57	Warning: 	HTML file (24155 bytes) retransferred due to lack of cache: https://goodxfoood.webnode.cz/album/fotogalerie/realna-vec-jpg/
+00:39:59	Warning: 	HTML file (32491 bytes) retransferred due to lack of cache: https://goodxfoood.webnode.cz/fotogalerie/photogallerycbm_810881/10/
+00:40:46	Error: 	"Not Found" (404) at link https://www.youtube.com/img/meh7.png (from https://www.youtube.com/embed/djJ3P-YTBnc?rel=0&wmode=transparent)
+00:40:46	Warning: 	HTML file (592252 bytes) retransferred due to lack of cache: https://www.youtube.com/watch?v=djJ3P-YTBnc
+00:41:41	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.youtube.com/watch?v=djJ3P-YTBnc (from https://www.youtube.com/embed/djJ3P-YTBnc?rel=0&wmode=transparent)
+00:41:41	Warning: 	HTML file (767 bytes) retransferred due to lack of cache: https://www.webnode.cz/
+00:41:44	Warning: 	Moved Permanently for https://www.webnode.cz/
+00:41:44	Warning: 	File has moved from https://www.webnode.cz/ to https://www.webnode.com/cs/
+00:42:14	Warning: 	Link https://goodxfoood.webnode.cz/images/200000000-8fe7790e12-public/gdfd1.jpg?s3=1 not scanned (follow robots meta tag)
+00:42:29	Warning: 	Link https://goodxfoood.webnode.cz/images/200000001-0a0da0b07b-public/gdfd2.jpg?s3=1 not scanned (follow robots meta tag)
+00:43:00	Warning: 	Link https://goodxfoood.webnode.cz/images/200000002-86ff587f9d-public/gdfd3.jpg?s3=1 not scanned (follow robots meta tag)
+00:43:15	Warning: 	Link https://goodxfoood.webnode.cz/images/200000003-0fcc110c5d-public/gdfd4.jpg?s3=1 not scanned (follow robots meta tag)
+00:43:45	Warning: 	Link https://goodxfoood.webnode.cz/images/200000004-a90aaaa04f-public/gdfd5.jpg?s3=1 not scanned (follow robots meta tag)
+00:44:00	Warning: 	Link https://goodxfoood.webnode.cz/images/200000005-2def92ee8d-public/gdfd6.jpg?s3=1 not scanned (follow robots meta tag)
+00:44:31	Warning: 	Link https://goodxfoood.webnode.cz/images/200000006-acd3badcd2-public/gdfd7.jpg?s3=1 not scanned (follow robots meta tag)
+00:44:46	Warning: 	Link https://goodxfoood.webnode.cz/images/200000007-34a5c359f8-public/gdfd8.jpg?s3=1 not scanned (follow robots meta tag)
+00:45:16	Warning: 	Link https://goodxfoood.webnode.cz/images/200000028-749987593b-public/designer+JOO+Kawasumi.jpg?s3=1 not scanned (follow robots meta tag)
+00:45:19	Warning: 	HTML file (24105 bytes) retransferred due to lack of cache: https://goodxfoood.webnode.cz/album/fotogalerie/sada2-jpg/
+00:45:40	Warning: 	Link https://goodxfoood.webnode.cz/images/200000029-e4e7be5e20-public/realná+věc.jpg?s3=1 not scanned (follow robots meta tag)
+00:46:02	Warning: 	HTML file (24336 bytes) retransferred due to lack of cache: https://goodxfoood.webnode.cz/album/fotogalerie/dvoustenny-poharek-pro-nevidome2-jpg/
+00:46:06	Warning: 	HTML file (24176 bytes) retransferred due to lack of cache: https://goodxfoood.webnode.cz/album/fotogalerie/p2-jpg/
+00:46:16	Warning: 	HTML file (24200 bytes) retransferred due to lack of cache: https://goodxfoood.webnode.cz/album/fotogalerie/p6-jpg/
+00:46:26	Warning: 	HTML file (24241 bytes) retransferred due to lack of cache: https://goodxfoood.webnode.cz/album/fotogalerie/a5-jpg/
+00:46:49	Warning: 	HTML file (24151 bytes) retransferred due to lack of cache: https://goodxfoood.webnode.cz/album/fotogalerie/a2-jpg/
+00:46:53	Warning: 	HTML file (24199 bytes) retransferred due to lack of cache: https://goodxfoood.webnode.cz/album/fotogalerie/a11-jpg/
+00:47:36	Warning: 	HTML file (24081 bytes) retransferred due to lack of cache: https://goodxfoood.webnode.cz/album/fotogalerie/a18-jpg/
+00:47:43	Warning: 	HTML file (24119 bytes) retransferred due to lack of cache: https://goodxfoood.webnode.cz/album/fotogalerie/capis2-jpg/
+00:48:05	Warning: 	HTML file (24102 bytes) retransferred due to lack of cache: https://goodxfoood.webnode.cz/album/fotogalerie/pc150008-jpg/
+00:48:10	Warning: 	HTML file (24365 bytes) retransferred due to lack of cache: https://goodxfoood.webnode.cz/album/fotogalerie/canon-001-066-jpg/
+00:48:53	Warning: 	HTML file (24127 bytes) retransferred due to lack of cache: https://goodxfoood.webnode.cz/album/fotogalerie/canon-001-067-jpg/
+00:49:04	Warning: 	HTML file (24422 bytes) retransferred due to lack of cache: https://goodxfoood.webnode.cz/album/fotogalerie/canon-001-069-jpg/
+00:49:27	Warning: 	HTML file (24323 bytes) retransferred due to lack of cache: https://goodxfoood.webnode.cz/album/fotogalerie/canon-001-070-jpg/
+00:49:31	Warning: 	HTML file (24340 bytes) retransferred due to lack of cache: https://goodxfoood.webnode.cz/album/fotogalerie/canon-001-072-jpg/
+00:49:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.youtube.com/opensearch?locale=en_US
+00:49:45	Warning: 	HTML file (24254 bytes) retransferred due to lack of cache: https://goodxfoood.webnode.cz/album/fotogalerie/canon-001-073-jpg/
+00:49:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.youtube.com/manifest.webmanifest
+00:49:49	Warning: 	HTML file (24137 bytes) retransferred due to lack of cache: https://goodxfoood.webnode.cz/album/fotogalerie/canon-001-075-jpg/
+00:50:14	Warning: 	HTML file (24279 bytes) retransferred due to lack of cache: https://goodxfoood.webnode.cz/album/fotogalerie/canon-001-077-jpg/
+00:50:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.youtube.com/oembed?format=xml&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdjJ3P-YTBnc
+00:50:19	Warning: 	HTML file (24302 bytes) retransferred due to lack of cache: https://goodxfoood.webnode.cz/album/fotogalerie/canon-001-078-jpg/
+00:50:25	Warning: 	HTML file (24247 bytes) retransferred due to lack of cache: https://goodxfoood.webnode.cz/album/fotogalerie/canon-001-080-jpg/
+00:50:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdjJ3P-YTBnc
+00:50:27	Warning: 	HTML file (24099 bytes) retransferred due to lack of cache: https://goodxfoood.webnode.cz/album/fotogalerie/canon-001-081-jpg/
+00:50:47	Warning: 	HTML file (32719 bytes) retransferred due to lack of cache: https://goodxfoood.webnode.cz/fotogalerie/photogallerycbm_810881/50/
+00:51:36	Warning: 	HTML file (24270 bytes) retransferred due to lack of cache: https://goodxfoood.webnode.cz/album/fotogalerie/canon-001-085-jpg/
+00:51:45	Warning: 	HTML file (24238 bytes) retransferred due to lack of cache: https://goodxfoood.webnode.cz/album/fotogalerie/canon-001-086-jpg/
+00:51:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.youtube.com/oembed?format=xml&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DmMRPuiNHFOA
+00:51:48	Warning: 	HTML file (24174 bytes) retransferred due to lack of cache: https://goodxfoood.webnode.cz/album/fotogalerie/canon-001-095-jpg/
+00:51:54	Warning: 	HTML file (24148 bytes) retransferred due to lack of cache: https://goodxfoood.webnode.cz/album/fotogalerie/canon-001-098-jpg/
+00:52:08	Warning: 	HTML file (24177 bytes) retransferred due to lack of cache: https://goodxfoood.webnode.cz/album/fotogalerie/canon-001-100-jpg/
+00:52:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DmMRPuiNHFOA
+00:52:14	Warning: 	HTML file (24221 bytes) retransferred due to lack of cache: https://goodxfoood.webnode.cz/album/fotogalerie/canon-001-102-jpg/
+00:52:41	Warning: 	HTML file (24439 bytes) retransferred due to lack of cache: https://goodxfoood.webnode.cz/album/fotogalerie/canon-001-133-jpg/
+00:52:56	Warning: 	HTML file (24089 bytes) retransferred due to lack of cache: https://goodxfoood.webnode.cz/album/fotogalerie/canon-001-135-jpg/
+00:53:02	Warning: 	HTML file (24265 bytes) retransferred due to lack of cache: https://goodxfoood.webnode.cz/album/fotogalerie/canon-001-136-jpg/
+00:53:04	Warning: 	HTML file (24278 bytes) retransferred due to lack of cache: https://goodxfoood.webnode.cz/album/fotogalerie/kamca-jpg/
+00:53:28	Warning: 	HTML file (24079 bytes) retransferred due to lack of cache: https://goodxfoood.webnode.cz/album/fotogalerie/vit-jpg/
+00:53:43	Warning: 	HTML file (24049 bytes) retransferred due to lack of cache: https://goodxfoood.webnode.cz/album/fotogalerie/vitek-jpg/
+00:53:48	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://www.youtube.com/error_204?t=jserror&level=ERROR
+00:53:49	Error: 	"No Content" (204) at link https://www.youtube.com/error_204?t=jserror&level=ERROR (from https://www.youtube.com/watch?v=djJ3P-YTBnc)
+00:55:22	Warning: 	HTML file (630648 bytes) retransferred due to lack of cache: https://www.youtube.com/watch?app=desktop&v=djJ3P-YTBnc
+00:56:16	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.youtube.com/watch?app=desktop&v=djJ3P-YTBnc (from https://www.youtube.com/watch?v=djJ3P-YTBnc)
+00:56:16	Warning: 	HTML file (420219 bytes) retransferred due to lack of cache: https://www.youtube.com/@jazzuo
+00:56:56	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.youtube.com/@jazzuo (from https://www.youtube.com/watch?v=djJ3P-YTBnc)
+00:56:56	Warning: 	HTML file (771 bytes) retransferred due to lack of cache: https://www.youtube.com/about/
+00:56:57	Warning: 	Moved Permanently for https://www.youtube.com/about/
+00:56:57	Warning: 	File has moved from https://www.youtube.com/about/ to https://about.youtube/
+00:57:32	Error: 	"Not Found" (404) at link https://www.youtube.com/async_attach_app_loader.js (from https://www.youtube.com/watch?v=djJ3P-YTBnc)
+00:57:32	Warning: 	HTML file (70350 bytes) retransferred due to lack of cache: https://www.youtube.com/embed/mMRPuiNHFOA
+00:57:40	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.youtube.com/embed/mMRPuiNHFOA (from https://www.youtube.com/watch?v=mMRPuiNHFOA)
+00:58:47	Warning: 	HTML file (517175 bytes) retransferred due to lack of cache: https://www.youtube.com/channel/UCjaFblyfqwCBM1-_t2Q9jlQ
+00:59:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.youtube.com/feeds/videos.xml?channel_id=UCjaFblyfqwCBM1-_t2Q9jlQ
+00:59:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.youtube.com/feeds/videos.xml?channel_id=UCp_RYPBbJzN3yhICAUF8a_w
+00:59:36	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.youtube.com/channel/UCjaFblyfqwCBM1-_t2Q9jlQ (from https://www.youtube.com/android-app:/com.google.android.youtube/http/www.youtube.com/watch?v=djJ3P-YTBnc)
+00:59:37	Warning: 	HTML file (420705 bytes) retransferred due to lack of cache: https://www.youtube.com/channel/UCp_RYPBbJzN3yhICAUF8a_w
+01:00:18	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.youtube.com/channel/UCp_RYPBbJzN3yhICAUF8a_w (from https://www.youtube.com/@jazzuo)
+01:00:43	Warning: 	HTML file (154226 bytes) retransferred due to lack of cache: https://www.youtube.com/intl/en_us/creators/
+01:00:59	Warning: 	Warning: store text/html without scan: C:/Users/Ant/websites/HTTrack/goodxfoood.webnoad.cz/intl/en_us/creators/index.html
+01:01:31	Warning: 	Warning: store text/css without scan: C:/Users/Ant/websites/HTTrack/goodxfoood.webnoad.cz/creators/static/compiled/index.min.css
+01:04:24	Warning: 	HTML file (130695 bytes) retransferred due to lack of cache: https://www.youtube.com/howyoutubeworks/
+01:04:38	Warning: 	Warning: store text/html without scan: C:/Users/Ant/websites/HTTrack/goodxfoood.webnoad.cz/howyoutubeworks/index.html
+01:04:45	Warning: 	Warning: store text/css without scan: C:/Users/Ant/websites/HTTrack/goodxfoood.webnoad.cz/howyoutubeworks/static/compiled/index.min5104.css
+01:04:48	Warning: 	Warning: store image/svg+xml without scan: C:/Users/Ant/websites/HTTrack/goodxfoood.webnoad.cz/youtube/img/branding/youtubelogo/svg/youtubelogo.svg
+01:07:35	Warning: 	Warning: store text/css without scan: C:/Users/Ant/websites/HTTrack/goodxfoood.webnoad.cz/s/desktop/7fca68b5/cssbin/www-main-desktop-home-page-skeleton.css
+01:09:07	Warning: 	HTML file (592252 bytes) retransferred due to lack of cache: https://www.youtube.com/watch?v=djJ3P-YTBnc
+01:09:10	Warning: 	Retry after error -5 (Unable to open local file) at link file:///H:/IMG_0449.JPG (from https://goodxfoood.webnode.cz/)
+01:09:10	Warning: 	HTML file (630648 bytes) retransferred due to lack of cache: https://www.youtube.com/watch?app=desktop&v=djJ3P-YTBnc
+01:09:13	Warning: 	HTML file (420219 bytes) retransferred due to lack of cache: https://www.youtube.com/@jazzuo
+01:09:18	Warning: 	HTML file (70350 bytes) retransferred due to lack of cache: https://www.youtube.com/embed/mMRPuiNHFOA
+01:09:26	Warning: 	HTML file (517175 bytes) retransferred due to lack of cache: https://www.youtube.com/channel/UCjaFblyfqwCBM1-_t2Q9jlQ
+01:09:54	Warning: 	HTML file (420705 bytes) retransferred due to lack of cache: https://www.youtube.com/channel/UCp_RYPBbJzN3yhICAUF8a_w
+01:10:00	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.youtube.com/watch?v=djJ3P-YTBnc (from https://www.youtube.com/embed/djJ3P-YTBnc?rel=0&wmode=transparent)
+01:10:00	Warning: 	HTML file (592252 bytes) retransferred due to lack of cache: https://www.youtube.com/watch?v=djJ3P-YTBnc
+01:10:10	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.youtube.com/watch?app=desktop&v=djJ3P-YTBnc (from https://www.youtube.com/watch?v=djJ3P-YTBnc)
+01:10:10	Warning: 	HTML file (630648 bytes) retransferred due to lack of cache: https://www.youtube.com/watch?app=desktop&v=djJ3P-YTBnc
+01:10:16	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.youtube.com/@jazzuo (from https://www.youtube.com/watch?v=djJ3P-YTBnc)
+01:10:16	Warning: 	HTML file (420219 bytes) retransferred due to lack of cache: https://www.youtube.com/@jazzuo
+01:10:34	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.youtube.com/embed/mMRPuiNHFOA (from https://www.youtube.com/watch?v=mMRPuiNHFOA)
+01:10:35	Warning: 	HTML file (70350 bytes) retransferred due to lack of cache: https://www.youtube.com/embed/mMRPuiNHFOA
+01:10:43	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.youtube.com/channel/UCjaFblyfqwCBM1-_t2Q9jlQ (from https://www.youtube.com/android-app:/com.google.android.youtube/http/www.youtube.com/watch?v=djJ3P-YTBnc)
+01:10:43	Warning: 	HTML file (517175 bytes) retransferred due to lack of cache: https://www.youtube.com/channel/UCjaFblyfqwCBM1-_t2Q9jlQ
+01:10:57	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.youtube.com/channel/UCp_RYPBbJzN3yhICAUF8a_w (from https://www.youtube.com/@jazzuo)
+01:10:57	Warning: 	HTML file (420705 bytes) retransferred due to lack of cache: https://www.youtube.com/channel/UCp_RYPBbJzN3yhICAUF8a_w
+01:11:01	Error: 	"Unable to open local file" (-5) after 2 retries at link file:///H:/IMG_0449.JPG (from https://goodxfoood.webnode.cz/)
+01:11:01	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.youtube.com/watch?v=djJ3P-YTBnc (from https://www.youtube.com/embed/djJ3P-YTBnc?rel=0&wmode=transparent)
+01:11:02	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.youtube.com/watch?app=desktop&v=djJ3P-YTBnc (from https://www.youtube.com/watch?v=djJ3P-YTBnc)
+01:11:02	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.youtube.com/@jazzuo (from https://www.youtube.com/watch?v=djJ3P-YTBnc)
+01:11:02	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.youtube.com/embed/mMRPuiNHFOA (from https://www.youtube.com/watch?v=mMRPuiNHFOA)
+01:11:02	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.youtube.com/channel/UCjaFblyfqwCBM1-_t2Q9jlQ (from https://www.youtube.com/android-app:/com.google.android.youtube/http/www.youtube.com/watch?v=djJ3P-YTBnc)
+01:11:02	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.youtube.com/channel/UCp_RYPBbJzN3yhICAUF8a_w (from https://www.youtube.com/@jazzuo)
 
-HTTrack Website Copier/3.49-2 mirror complete in 39 minutes 35 seconds : 450 links scanned, 481 files written (43674899 bytes overall), 387 files updated [27830109 bytes received at 11717 bytes/sec], 11453441 bytes transferred using HTTP compression in 171 files, ratio 20%, 1.3 requests per connection
-(48 errors, 103 warnings, 0 messages)
+HTTrack Website Copier/3.49-2 mirror complete in 38 minutes 54 seconds : 452 links scanned, 495 files written (42284970 bytes overall) [29475186 bytes received at 12628 bytes/sec], 10818157 bytes transferred using HTTP compression in 137 files, ratio 18%, 1.5 requests per connection
+(26 errors, 150 warnings, 0 messages)

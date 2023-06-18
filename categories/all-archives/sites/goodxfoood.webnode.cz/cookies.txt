@@ -1,17 +1,17 @@
 # HTTrack Website Copier Cookie File
 # This file format is compatible with Netscape cookies
-goodxfoood.webnode.cz	TRUE	/	FALSE	1999999999	PHPSESSID	277cdae7bd56766e15f044ae9f3a5e1c
-.youtube.com	TRUE	/	FALSE	1999999999	VISITOR_INFO1_LIVE	uzb3O8ldwJI
+goodxfoood.webnode.cz	TRUE	/	FALSE	1999999999	PHPSESSID	6b346b86dfb21c42147dbdca9d706d83
+.youtube.com	TRUE	/	FALSE	1999999999	VISITOR_INFO1_LIVE	zXPssv8DmDQ
 www.youtube.com	TRUE	/	FALSE	1999999999	SameSite	none
-www.webnode.cz	TRUE	/	FALSE	1999999999	PHPSESSID	6d4b1410d726e0058a5d02604393c7f5
-www.webnode.cz	TRUE	/	FALSE	1999999999	ubh	8ae3683527f660d6ac5d0b7643f71ff873360cc9
-www.webnode.cz	TRUE	/	FALSE	1999999999	usi	1687050976648e5ae0ab791
+www.webnode.cz	TRUE	/	FALSE	1999999999	PHPSESSID	716a5a46ebb261c4069eeccfd1ab6554
+www.webnode.cz	TRUE	/	FALSE	1999999999	ubh	58ca96616acc771eca129a6c5fc0c0fdbd3e9c08
+www.webnode.cz	TRUE	/	FALSE	1999999999	usi	1687062754648e88e28bde0
 www.webnode.cz	TRUE	/	FALSE	1999999999	mfd	1
 www.webnode.cz	TRUE	/	FALSE	1999999999	portal_referer	http%3A%2F%2Fgoodxfoood.webnode.cz%2F
-.youtube.com	TRUE	/	FALSE	1999999999	NID	511=pi2Dl8kitrzCiDt-8_aAM9Yhphv4dBCdzRiZqi6w-84-WsLw1-iSKfes0mLID2GU2PDvhRUj3mqfge60HBW5zF9l67-zDBY0dEwJ8z8cDkianKSqmWzGhazU5LcpeKTbqzXLMbFDnzQEZi6EaFxJzx3Lx4lnVTGuT_ewC9BAdi4
+.youtube.com	TRUE	/	FALSE	1999999999	NID	511=viu1XLXfEPwkzSV8bqUgEtSsUY8BkOgLuWiZpVR8va18xeWVQPthPEa1m5qk0YPknXnx-P6KDS0Jop5AfyLDQNZ1pDV7UPVj3Pb3-e-_pymimE_HK1n_Kz3AHiv8sjQQocQEMnt4w466TO-sULXBJMnn8x9jUCsD3rqJam4e1ug
 .youtube.com	TRUE	/	FALSE	1999999999	GPS	1
-.youtube.com	TRUE	/	FALSE	1999999999	YSC	oVWG8PSGOQA
+.youtube.com	TRUE	/	FALSE	1999999999	YSC	vSZKoygbMAw
 youtu.be	TRUE	/	FALSE	1999999999	SameSite	none
-www.webnode.cz	TRUE	/	FALSE	1999999999	tu	8ae3683527f660d6ac5d0b7643f71ff873360cc9.1687050976648e5ae0ab791
+www.webnode.cz	TRUE	/	FALSE	1999999999	tu	58ca96616acc771eca129a6c5fc0c0fdbd3e9c08.1687062754648e88e28bde0
 www.webnode.cz	TRUE	/	FALSE	1999999999	mfdp	1
 
