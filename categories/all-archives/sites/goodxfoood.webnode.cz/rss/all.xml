@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+   <channel>
+    <atom:link href="http://goodxfoood.webnode.cz/rss/all.xml" rel="self" type="application/rss+xml" />
+      <title>goodxfoood.webnode.cz</title>
+      <link>http://goodxfoood.webnode.cz/archive/news/</link>
+      <description></description>
+      <language>cs</language>
+      <pubDate>Thu, 19 Mar 2009 11:17:00 +0100</pubDate>
+      <lastBuildDate>Thu, 19 Mar 2009 11:17:00 +0100</lastBuildDate>
+      <category>Novinky</category>
+      <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+      <generator>Rubicus v2.0</generator>
+      <managingEditor><![CDATA[vilimek@goodxfood.eu (vilimek@goodxfood.eu)]]></managingEditor>
+      <webMaster><![CDATA[vilimek@goodxfood.eu (vilimek@goodxfood.eu)]]></webMaster>
+      <item>
+         <title>Zímní spánek </title>
+         <link>http://goodxfoood.webnode.cz/news/zimni-spanek/</link>
+         <description><![CDATA[
+
+
+Tak zatím ještě odpočíváme po designbloku a léčíme své ega.Zde vás budeme informovat o tom co se kuje za pikle. 
+
+&#160;
+&#160;]]></description>
+         <pubDate>Thu, 19 Mar 2009 11:17:00 +0100</pubDate>
+         <guid isPermaLink="true">http://goodxfoood.webnode.cz/news/zimni-spanek/</guid>
+         <category>Novinky</category>
+      </item>
+   </channel>
+</rss>
