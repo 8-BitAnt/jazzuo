@@ -1,4 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-goodxfoood.webnode.cz	TRUE	/	FALSE	1999999999	PHPSESSID	9f9c8926d2e2e0f8101e6aaae00af961
-
