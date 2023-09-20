@@ -582,3 +582,52 @@ top: 0;
   border: solid white 3px;
   background-color: white;
 }
+
+.video{
+  color: white;
+  background-color: black;
+  /* width: 500px; */
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 40px;
+  border-radius: 10px;
+  border: solid white 3px;
+  font-family: badComic;
+  padding: 10px;
+}
+
+.arrows{
+  color: white;
+  background-color: black;
+  width: 250px;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 50px;
+  border-radius: 10px;
+  border: solid white 3px;
+  font-family: badComic;
+  padding: 10px;
+  padding-top: 15px;
+}
+
+.prevIMG{
+  padding-right: 10px;
+}
+
+.nextIMG{
+  padding-left: 10px;
+}
+
+.caution{
+  color: yellow;
+  background-color: black;
+  width: 650px;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 40px;
+  border-radius: 10px;
+  border: solid yellow 3px;
+  font-family: badComic;
+  padding: 10px;
+  padding-top: 20px;
+}
